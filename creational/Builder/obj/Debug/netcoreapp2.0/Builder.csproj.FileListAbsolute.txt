@@ -1,0 +1,10 @@
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\creational\Builder\obj\Debug\netcoreapp2.0\Builder.csproj.CoreCompileInputs.cache
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\creational\Builder\obj\Debug\netcoreapp2.0\Builder.AssemblyInfoInputs.cache
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\creational\Builder\obj\Debug\netcoreapp2.0\Builder.AssemblyInfo.cs
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\creational\Builder\bin\Debug\netcoreapp2.0\Builder.deps.json
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\creational\Builder\bin\Debug\netcoreapp2.0\Builder.runtimeconfig.json
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\creational\Builder\bin\Debug\netcoreapp2.0\Builder.runtimeconfig.dev.json
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\creational\Builder\bin\Debug\netcoreapp2.0\Builder.dll
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\creational\Builder\bin\Debug\netcoreapp2.0\Builder.pdb
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\creational\Builder\obj\Debug\netcoreapp2.0\Builder.dll
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\creational\Builder\obj\Debug\netcoreapp2.0\Builder.pdb
