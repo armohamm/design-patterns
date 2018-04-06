@@ -1,0 +1,10 @@
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\creational\FactoryMethod\bin\Debug\netcoreapp2.0\FactoryMethod.deps.json
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\creational\FactoryMethod\bin\Debug\netcoreapp2.0\FactoryMethod.runtimeconfig.json
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\creational\FactoryMethod\bin\Debug\netcoreapp2.0\FactoryMethod.runtimeconfig.dev.json
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\creational\FactoryMethod\bin\Debug\netcoreapp2.0\FactoryMethod.dll
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\creational\FactoryMethod\bin\Debug\netcoreapp2.0\FactoryMethod.pdb
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\creational\FactoryMethod\obj\Debug\netcoreapp2.0\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\creational\FactoryMethod\obj\Debug\netcoreapp2.0\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\creational\FactoryMethod\obj\Debug\netcoreapp2.0\FactoryMethod.AssemblyInfo.cs
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\creational\FactoryMethod\obj\Debug\netcoreapp2.0\FactoryMethod.dll
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\creational\FactoryMethod\obj\Debug\netcoreapp2.0\FactoryMethod.pdb
