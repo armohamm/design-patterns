@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pedrodemirandaarthur/Documents/Trabalho/design-patterns/creational/FactoryMethod/FactoryMethod.csproj",
-      "projectName": "FactoryMethod",
-      "projectPath": "/Users/pedrodemirandaarthur/Documents/Trabalho/design-patterns/creational/FactoryMethod/FactoryMethod.csproj",
+      "projectUniqueName": "/Users/pedrodemirandaarthur/Documents/Trabalho/design-patterns/creational/AbstractFactory/AbstractFactory.csproj",
+      "projectName": "AbstractFactory",
+      "projectPath": "/Users/pedrodemirandaarthur/Documents/Trabalho/design-patterns/creational/AbstractFactory/AbstractFactory.csproj",
       "packagesPath": "/Users/pedrodemirandaarthur/.nuget/packages/",
-      "outputPath": "/Users/pedrodemirandaarthur/Documents/Trabalho/design-patterns/creational/FactoryMethod/obj/",
+      "outputPath": "/Users/pedrodemirandaarthur/Documents/Trabalho/design-patterns/creational/AbstractFactory/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

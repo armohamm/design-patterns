@@ -664,31 +664,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Shakkollc\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/pedrodemirandaarthur/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shakkollc\\Desktop\\Pedro\\pedro\\designpatterns\\creational\\Builder\\Builder.csproj",
+      "projectUniqueName": "/Users/pedrodemirandaarthur/Documents/Trabalho/design-patterns/creational/Builder/Builder.csproj",
       "projectName": "Builder",
-      "projectPath": "C:\\Users\\Shakkollc\\Desktop\\Pedro\\pedro\\designpatterns\\creational\\Builder\\Builder.csproj",
-      "packagesPath": "C:\\Users\\Shakkollc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shakkollc\\Desktop\\Pedro\\pedro\\designpatterns\\creational\\Builder\\obj\\",
+      "projectPath": "/Users/pedrodemirandaarthur/Documents/Trabalho/design-patterns/creational/Builder/Builder.csproj",
+      "packagesPath": "/Users/pedrodemirandaarthur/.nuget/packages/",
+      "outputPath": "/Users/pedrodemirandaarthur/Documents/Trabalho/design-patterns/creational/Builder/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Shakkollc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/pedrodemirandaarthur/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://nuget.syncfusion.com/aspnetmvc": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -707,7 +704,7 @@
         "dependencies": {
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.0",
+            "version": "[2.0.0, )",
             "autoReferenced": true
           }
         },

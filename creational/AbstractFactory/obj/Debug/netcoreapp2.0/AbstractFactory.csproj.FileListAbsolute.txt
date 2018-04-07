@@ -1,0 +1,10 @@
+/Users/pedrodemirandaarthur/Documents/Trabalho/design-patterns/creational/AbstractFactory/bin/Debug/netcoreapp2.0/AbstractFactory.deps.json
+/Users/pedrodemirandaarthur/Documents/Trabalho/design-patterns/creational/AbstractFactory/bin/Debug/netcoreapp2.0/AbstractFactory.runtimeconfig.json
+/Users/pedrodemirandaarthur/Documents/Trabalho/design-patterns/creational/AbstractFactory/bin/Debug/netcoreapp2.0/AbstractFactory.runtimeconfig.dev.json
+/Users/pedrodemirandaarthur/Documents/Trabalho/design-patterns/creational/AbstractFactory/bin/Debug/netcoreapp2.0/AbstractFactory.dll
+/Users/pedrodemirandaarthur/Documents/Trabalho/design-patterns/creational/AbstractFactory/bin/Debug/netcoreapp2.0/AbstractFactory.pdb
+/Users/pedrodemirandaarthur/Documents/Trabalho/design-patterns/creational/AbstractFactory/obj/Debug/netcoreapp2.0/AbstractFactory.csproj.CoreCompileInputs.cache
+/Users/pedrodemirandaarthur/Documents/Trabalho/design-patterns/creational/AbstractFactory/obj/Debug/netcoreapp2.0/AbstractFactory.AssemblyInfoInputs.cache
+/Users/pedrodemirandaarthur/Documents/Trabalho/design-patterns/creational/AbstractFactory/obj/Debug/netcoreapp2.0/AbstractFactory.AssemblyInfo.cs
+/Users/pedrodemirandaarthur/Documents/Trabalho/design-patterns/creational/AbstractFactory/obj/Debug/netcoreapp2.0/AbstractFactory.dll
+/Users/pedrodemirandaarthur/Documents/Trabalho/design-patterns/creational/AbstractFactory/obj/Debug/netcoreapp2.0/AbstractFactory.pdb
