@@ -1,0 +1,10 @@
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Bridge\bin\Debug\netcoreapp2.0\Bridge.deps.json
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Bridge\bin\Debug\netcoreapp2.0\Bridge.runtimeconfig.json
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Bridge\bin\Debug\netcoreapp2.0\Bridge.runtimeconfig.dev.json
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Bridge\bin\Debug\netcoreapp2.0\Bridge.dll
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Bridge\bin\Debug\netcoreapp2.0\Bridge.pdb
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Bridge\obj\Debug\netcoreapp2.0\Bridge.csproj.CoreCompileInputs.cache
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Bridge\obj\Debug\netcoreapp2.0\Bridge.AssemblyInfoInputs.cache
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Bridge\obj\Debug\netcoreapp2.0\Bridge.AssemblyInfo.cs
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Bridge\obj\Debug\netcoreapp2.0\Bridge.dll
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Bridge\obj\Debug\netcoreapp2.0\Bridge.pdb

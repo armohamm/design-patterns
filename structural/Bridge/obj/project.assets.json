@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Shakkollc\\Desktop\\Pedro\\pedro\\designpatterns\\creational\\AbstractFactory\\AbstractFactory.csproj",
-      "projectName": "AbstractFactory",
-      "projectPath": "c:\\Users\\Shakkollc\\Desktop\\Pedro\\pedro\\designpatterns\\creational\\AbstractFactory\\AbstractFactory.csproj",
+      "projectUniqueName": "C:\\Users\\Shakkollc\\Desktop\\Pedro\\pedro\\designpatterns\\structural\\Bridge\\Bridge.csproj",
+      "projectName": "Bridge",
+      "projectPath": "C:\\Users\\Shakkollc\\Desktop\\Pedro\\pedro\\designpatterns\\structural\\Bridge\\Bridge.csproj",
       "packagesPath": "C:\\Users\\Shakkollc\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Shakkollc\\Desktop\\Pedro\\pedro\\designpatterns\\creational\\AbstractFactory\\obj\\",
+      "outputPath": "C:\\Users\\Shakkollc\\Desktop\\Pedro\\pedro\\designpatterns\\structural\\Bridge\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
