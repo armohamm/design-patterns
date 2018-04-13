@@ -6,15 +6,28 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "Singleton/1.0.0": {
+      "ProxyClient/1.0.0": {
+        "dependencies": {
+          "Proxy": "1.0.0"
+        },
         "runtime": {
-          "Singleton.dll": {}
+          "ProxyClient.dll": {}
+        }
+      },
+      "Proxy/1.0.0": {
+        "runtime": {
+          "Proxy.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Singleton/1.0.0": {
+    "ProxyClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Proxy/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

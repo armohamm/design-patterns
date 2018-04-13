@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shakkollc\\Desktop\\Pedro\\pedro\\designpatterns\\creational\\Singleton\\Singleton.csproj",
-      "projectName": "Singleton",
-      "projectPath": "C:\\Users\\Shakkollc\\Desktop\\Pedro\\pedro\\designpatterns\\creational\\Singleton\\Singleton.csproj",
+      "projectUniqueName": "C:\\Users\\Shakkollc\\Desktop\\Pedro\\pedro\\designpatterns\\structural\\Proxy\\Proxy.csproj",
+      "projectName": "Proxy",
+      "projectPath": "C:\\Users\\Shakkollc\\Desktop\\Pedro\\pedro\\designpatterns\\structural\\Proxy\\Proxy.csproj",
       "packagesPath": "C:\\Users\\Shakkollc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shakkollc\\Desktop\\Pedro\\pedro\\designpatterns\\creational\\Singleton\\obj\\",
+      "outputPath": "C:\\Users\\Shakkollc\\Desktop\\Pedro\\pedro\\designpatterns\\structural\\Proxy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

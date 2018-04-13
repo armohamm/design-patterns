@@ -1,13 +1,3 @@
-C:/Users/Shakkollc/Desktop/Pedro/pedro/designpatterns/creational/Singleton/bin/Debug/netcoreapp2.0/Singleton.deps.json
-C:/Users/Shakkollc/Desktop/Pedro/pedro/designpatterns/creational/Singleton/bin/Debug/netcoreapp2.0/Singleton.runtimeconfig.json
-C:/Users/Shakkollc/Desktop/Pedro/pedro/designpatterns/creational/Singleton/bin/Debug/netcoreapp2.0/Singleton.runtimeconfig.dev.json
-C:/Users/Shakkollc/Desktop/Pedro/pedro/designpatterns/creational/Singleton/bin/Debug/netcoreapp2.0/Singleton.dll
-C:/Users/Shakkollc/Desktop/Pedro/pedro/designpatterns/creational/Singleton/bin/Debug/netcoreapp2.0/Singleton.pdb
-C:/Users/Shakkollc/Desktop/Pedro/pedro/designpatterns/creational/Singleton/obj/Debug/netcoreapp2.0/Singleton.csproj.CoreCompileInputs.cache
-C:/Users/Shakkollc/Desktop/Pedro/pedro/designpatterns/creational/Singleton/obj/Debug/netcoreapp2.0/Singleton.AssemblyInfoInputs.cache
-C:/Users/Shakkollc/Desktop/Pedro/pedro/designpatterns/creational/Singleton/obj/Debug/netcoreapp2.0/Singleton.AssemblyInfo.cs
-C:/Users/Shakkollc/Desktop/Pedro/pedro/designpatterns/creational/Singleton/obj/Debug/netcoreapp2.0/Singleton.dll
-C:/Users/Shakkollc/Desktop/Pedro/pedro/designpatterns/creational/Singleton/obj/Debug/netcoreapp2.0/Singleton.pdb
 /Users/pedrodemirandaarthur/Documents/Trabalho/design-patterns/creational/Singleton/bin/Debug/netcoreapp2.0/Singleton.deps.json
 /Users/pedrodemirandaarthur/Documents/Trabalho/design-patterns/creational/Singleton/bin/Debug/netcoreapp2.0/Singleton.runtimeconfig.json
 /Users/pedrodemirandaarthur/Documents/Trabalho/design-patterns/creational/Singleton/bin/Debug/netcoreapp2.0/Singleton.runtimeconfig.dev.json
@@ -18,3 +8,13 @@ C:/Users/Shakkollc/Desktop/Pedro/pedro/designpatterns/creational/Singleton/obj/D
 /Users/pedrodemirandaarthur/Documents/Trabalho/design-patterns/creational/Singleton/obj/Debug/netcoreapp2.0/Singleton.AssemblyInfo.cs
 /Users/pedrodemirandaarthur/Documents/Trabalho/design-patterns/creational/Singleton/obj/Debug/netcoreapp2.0/Singleton.dll
 /Users/pedrodemirandaarthur/Documents/Trabalho/design-patterns/creational/Singleton/obj/Debug/netcoreapp2.0/Singleton.pdb
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\creational\Singleton\bin\Debug\netcoreapp2.0\Singleton.deps.json
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\creational\Singleton\bin\Debug\netcoreapp2.0\Singleton.runtimeconfig.json
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\creational\Singleton\bin\Debug\netcoreapp2.0\Singleton.runtimeconfig.dev.json
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\creational\Singleton\bin\Debug\netcoreapp2.0\Singleton.dll
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\creational\Singleton\bin\Debug\netcoreapp2.0\Singleton.pdb
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\creational\Singleton\obj\Debug\netcoreapp2.0\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\creational\Singleton\obj\Debug\netcoreapp2.0\Singleton.AssemblyInfoInputs.cache
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\creational\Singleton\obj\Debug\netcoreapp2.0\Singleton.AssemblyInfo.cs
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\creational\Singleton\obj\Debug\netcoreapp2.0\Singleton.dll
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\creational\Singleton\obj\Debug\netcoreapp2.0\Singleton.pdb

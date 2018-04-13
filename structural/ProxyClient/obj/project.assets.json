@@ -196,6 +196,19 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "Proxy/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "Microsoft.NETCore.App": "2.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Proxy.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Proxy.dll": {}
+        }
       }
     }
   },
@@ -656,11 +669,17 @@
         "netstandard.library.2.0.0.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "Proxy/1.0.0": {
+      "type": "project",
+      "path": "../Proxy/Proxy.csproj",
+      "msbuildProject": "../Proxy/Proxy.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
-      "Microsoft.NETCore.App >= 2.0.0"
+      "Microsoft.NETCore.App >= 2.0.0",
+      "Proxy >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -670,11 +689,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shakkollc\\Desktop\\Pedro\\pedro\\designpatterns\\creational\\Singleton\\Singleton.csproj",
-      "projectName": "Singleton",
-      "projectPath": "C:\\Users\\Shakkollc\\Desktop\\Pedro\\pedro\\designpatterns\\creational\\Singleton\\Singleton.csproj",
+      "projectUniqueName": "C:\\Users\\Shakkollc\\Desktop\\Pedro\\pedro\\designpatterns\\structural\\ProxyClient\\ProxyClient.csproj",
+      "projectName": "ProxyClient",
+      "projectPath": "C:\\Users\\Shakkollc\\Desktop\\Pedro\\pedro\\designpatterns\\structural\\ProxyClient\\ProxyClient.csproj",
       "packagesPath": "C:\\Users\\Shakkollc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shakkollc\\Desktop\\Pedro\\pedro\\designpatterns\\creational\\Singleton\\obj\\",
+      "outputPath": "C:\\Users\\Shakkollc\\Desktop\\Pedro\\pedro\\designpatterns\\structural\\ProxyClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -693,7 +712,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Shakkollc\\Desktop\\Pedro\\pedro\\designpatterns\\structural\\Proxy\\Proxy.csproj": {
+              "projectPath": "C:\\Users\\Shakkollc\\Desktop\\Pedro\\pedro\\designpatterns\\structural\\Proxy\\Proxy.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

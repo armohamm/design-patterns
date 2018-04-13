@@ -1,0 +1,10 @@
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Proxy\bin\Debug\netcoreapp2.0\Proxy.deps.json
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Proxy\bin\Debug\netcoreapp2.0\Proxy.runtimeconfig.json
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Proxy\bin\Debug\netcoreapp2.0\Proxy.runtimeconfig.dev.json
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Proxy\bin\Debug\netcoreapp2.0\Proxy.dll
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Proxy\bin\Debug\netcoreapp2.0\Proxy.pdb
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Proxy\obj\Debug\netcoreapp2.0\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Proxy\obj\Debug\netcoreapp2.0\Proxy.AssemblyInfoInputs.cache
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Proxy\obj\Debug\netcoreapp2.0\Proxy.AssemblyInfo.cs
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Proxy\obj\Debug\netcoreapp2.0\Proxy.dll
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Proxy\obj\Debug\netcoreapp2.0\Proxy.pdb
