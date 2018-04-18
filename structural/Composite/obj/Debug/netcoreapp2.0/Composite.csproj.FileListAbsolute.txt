@@ -1,0 +1,10 @@
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Composite\bin\Debug\netcoreapp2.0\Composite.deps.json
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Composite\bin\Debug\netcoreapp2.0\Composite.runtimeconfig.json
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Composite\bin\Debug\netcoreapp2.0\Composite.runtimeconfig.dev.json
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Composite\bin\Debug\netcoreapp2.0\Composite.dll
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Composite\bin\Debug\netcoreapp2.0\Composite.pdb
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Composite\obj\Debug\netcoreapp2.0\Composite.csproj.CoreCompileInputs.cache
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Composite\obj\Debug\netcoreapp2.0\Composite.AssemblyInfoInputs.cache
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Composite\obj\Debug\netcoreapp2.0\Composite.AssemblyInfo.cs
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Composite\obj\Debug\netcoreapp2.0\Composite.dll
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Composite\obj\Debug\netcoreapp2.0\Composite.pdb
