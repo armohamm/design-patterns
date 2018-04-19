@@ -1,0 +1,10 @@
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Decorator\bin\Debug\netcoreapp2.0\Decorator.deps.json
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Decorator\bin\Debug\netcoreapp2.0\Decorator.runtimeconfig.json
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Decorator\bin\Debug\netcoreapp2.0\Decorator.runtimeconfig.dev.json
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Decorator\bin\Debug\netcoreapp2.0\Decorator.dll
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Decorator\bin\Debug\netcoreapp2.0\Decorator.pdb
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Decorator\obj\Debug\netcoreapp2.0\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Decorator\obj\Debug\netcoreapp2.0\Decorator.AssemblyInfoInputs.cache
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Decorator\obj\Debug\netcoreapp2.0\Decorator.AssemblyInfo.cs
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Decorator\obj\Debug\netcoreapp2.0\Decorator.dll
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\structural\Decorator\obj\Debug\netcoreapp2.0\Decorator.pdb
