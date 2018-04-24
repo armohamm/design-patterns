@@ -1,0 +1,10 @@
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\behavioral\mediator\bin\Debug\netcoreapp2.0\mediator.deps.json
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\behavioral\mediator\bin\Debug\netcoreapp2.0\mediator.runtimeconfig.json
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\behavioral\mediator\bin\Debug\netcoreapp2.0\mediator.runtimeconfig.dev.json
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\behavioral\mediator\bin\Debug\netcoreapp2.0\mediator.dll
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\behavioral\mediator\bin\Debug\netcoreapp2.0\mediator.pdb
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\behavioral\mediator\obj\Debug\netcoreapp2.0\mediator.csproj.CoreCompileInputs.cache
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\behavioral\mediator\obj\Debug\netcoreapp2.0\mediator.AssemblyInfoInputs.cache
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\behavioral\mediator\obj\Debug\netcoreapp2.0\mediator.AssemblyInfo.cs
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\behavioral\mediator\obj\Debug\netcoreapp2.0\mediator.dll
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\behavioral\mediator\obj\Debug\netcoreapp2.0\mediator.pdb
