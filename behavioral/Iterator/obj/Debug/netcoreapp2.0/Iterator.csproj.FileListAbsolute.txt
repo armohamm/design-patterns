@@ -1,0 +1,10 @@
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\behavioral\Iterator\bin\Debug\netcoreapp2.0\Iterator.deps.json
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\behavioral\Iterator\bin\Debug\netcoreapp2.0\Iterator.runtimeconfig.json
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\behavioral\Iterator\bin\Debug\netcoreapp2.0\Iterator.runtimeconfig.dev.json
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\behavioral\Iterator\bin\Debug\netcoreapp2.0\Iterator.dll
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\behavioral\Iterator\bin\Debug\netcoreapp2.0\Iterator.pdb
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\behavioral\Iterator\obj\Debug\netcoreapp2.0\Iterator.csproj.CoreCompileInputs.cache
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\behavioral\Iterator\obj\Debug\netcoreapp2.0\Iterator.AssemblyInfoInputs.cache
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\behavioral\Iterator\obj\Debug\netcoreapp2.0\Iterator.AssemblyInfo.cs
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\behavioral\Iterator\obj\Debug\netcoreapp2.0\Iterator.dll
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\behavioral\Iterator\obj\Debug\netcoreapp2.0\Iterator.pdb
