@@ -1,0 +1,10 @@
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\behavioral\command\bin\Debug\netcoreapp2.0\command.deps.json
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\behavioral\command\bin\Debug\netcoreapp2.0\command.runtimeconfig.json
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\behavioral\command\bin\Debug\netcoreapp2.0\command.runtimeconfig.dev.json
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\behavioral\command\bin\Debug\netcoreapp2.0\command.dll
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\behavioral\command\bin\Debug\netcoreapp2.0\command.pdb
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\behavioral\command\obj\Debug\netcoreapp2.0\command.csproj.CoreCompileInputs.cache
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\behavioral\command\obj\Debug\netcoreapp2.0\command.AssemblyInfoInputs.cache
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\behavioral\command\obj\Debug\netcoreapp2.0\command.AssemblyInfo.cs
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\behavioral\command\obj\Debug\netcoreapp2.0\command.dll
+C:\Users\Shakkollc\Desktop\Pedro\pedro\designpatterns\behavioral\command\obj\Debug\netcoreapp2.0\command.pdb
