@@ -11,6 +11,7 @@ public class User{
       set
       {
         username = value;
+        Console.WriteLine("Username: " + username);
       }
     }
 
@@ -20,6 +21,7 @@ public class User{
       set
       {
         age = value;
+        Console.WriteLine("Age: " + age);
       }
     }
 
@@ -29,11 +31,8 @@ public class User{
       set
       {
         sex = value;
+        Console.WriteLine("Sex: " + sex);
       }
-    }
-
-    public string UserInfo(){
-      return "Name: " + this.username + "\nAge: " + this.age + "\nSex: " + this.sex;
     }
 
     public Memento SaveMemento(){
@@ -46,5 +45,6 @@ public class User{
       this.username = memento.Username;
       this.age = memento.Age;
       this.sex = memento.Sex;
+      Console.Write("Username: " + this.username + "\nAge:" + this.age + "\nSex:" + this.sex);
     }
 }
